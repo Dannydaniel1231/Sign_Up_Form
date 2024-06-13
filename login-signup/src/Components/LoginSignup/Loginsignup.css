@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    margin: aut;
+    margin-top: 200px;
+    background: #ffff;
+    padding-bottom: 30px;
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 9px;
+    width: 100%;
+    margin-top: 30px;
+}
